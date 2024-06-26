@@ -11,5 +11,5 @@ This document will show the usages of the implemented solution and how the syste
 After successful implmentation, this document should showcase the working functionality of the solution.
 
 # Network
-## This image shows the network diagram for the proposed cloud infrastructure. 
+This image shows the network diagram for the proposed cloud infrastructure. 
 ![image](https://github.com/fallenknox/automation-and-security/assets/119413736/286aba07-acce-4717-b185-150d84fa8440)
