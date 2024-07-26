@@ -22,4 +22,9 @@ This shows the a diagram for the AWS services used but there is a more in detail
 
 These images showcases in detail the components used within the cloud infrastructure which should show the infrasucture in more detail.
 
+# Network
+This image shows the process diagram of the automation features in the cloud environment
+![image](https://github.com/user-attachments/assets/e418d7f2-ef75-4a04-841b-e035dfbc8772)
+
+
 
